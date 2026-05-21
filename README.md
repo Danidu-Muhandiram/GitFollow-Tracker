@@ -3,8 +3,11 @@
 A lightweight Tampermonkey userscript that adds **Mutual / Not mutual** badges on GitHub “Following” pages.
 
 It compares:
-- Users you follow
-- Users who follow you
+- Users you follow  
+  <img src="mutual.jpg" width="100" align="right" />
+
+- Users who follow you  
+  <img src="notmutual.jpg" width="120" align="right" />
 
 and injects a visual status badge directly into GitHub UI.
 
